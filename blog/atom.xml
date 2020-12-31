@@ -1,12 +1,12 @@
 ---
-layout: feed
+layout: default
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>Jerry Xu's Blog</title>
-	<link href="http://hankquinlan.github.io/blog/atom.xml" rel="self"/>
-	<link href="http://hankquinlan.github.io/blog"/>
+	<link href="http://xu-jerry.github.io/blog/atom.xml" rel="self"/>
+	<link href="http://xu-jerry.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://xu-jerry.github.io/blog</id>
 	<author>
