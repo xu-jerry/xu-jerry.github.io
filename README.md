@@ -41,3 +41,11 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 ## Personal Website
 
 This my personal website, where I'll be putting my portfolio of projects and any other bits and pieces of my life! Feel free to look around, and check back for new changes.
+
+This was created with Github Pages, Jekyll, and my expertise in Googling.
+
+To run this website locally, make sure you have cloned the repository, downloaded Ruby, and installed Jekyll. Navigate into the folder with the repo and run this command:
+
+    bundle exec jekyll serve
+
+Afterwards, if you go to any browser and type in `localhost:4000`, the website should appear in all its glory!
