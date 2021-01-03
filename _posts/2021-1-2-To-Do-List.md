@@ -17,5 +17,7 @@ New Year, new me!
 - Add animations and cool things like typing effects
 - Possibly encode secrets?? ;)
 - Research/stalk other personal websites to learn from the pros
+- Add some achievements/brighten up the front page to be more inviting
+- Add icons at the bottom for social media: Faceboook, Instagram, Discord, replace email and github links with icons
 
 Of course, this is not an extensive list, but those are the main things I want to focus on for near future, to get this site to the porfolio I want it to be. Here's to a better 2021!

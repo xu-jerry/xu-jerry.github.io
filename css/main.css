@@ -13,10 +13,12 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
+
 a {
     text-decoration: none;
     color: rgb(95, 138, 230);
 }
+
 a:hover {
     text-decoration: underline;
 }
@@ -43,6 +45,14 @@ ul {
     font-family: 'Overpass', sans-serif;
     line-height: 1.4em;
     color: #333;
+}
+
+indent {
+    font-size: 0.8em;
+    font-family: 'Overpass', sans-serif;
+    line-height: 1.4em;
+    color: #333;
+    margin-left: 40px
 }
 
 footer {
