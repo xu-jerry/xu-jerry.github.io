@@ -1,3 +1,4 @@
+<!---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/xu-jerry/xu-jerry.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +36,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+-->
+## Personal Website
+
+This my personal website, where I'll be putting my portfolio of projects and any other bits and pieces of my life! Feel free to look around, and check back for new changes.
