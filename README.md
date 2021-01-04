@@ -42,7 +42,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 This my personal website, where I'll be putting my portfolio of projects and any other bits and pieces of my life! Feel free to look around, and check back for new changes.
 
-This was created with Github Pages, Jekyll, and my expertise in Googling.
+This was created with Github Pages, Jekyll, and my expertise in Googling. Most of the beginning template was created using this guide: http://jmcglone.com/guides/github-pages/
 
 To run this website locally, make sure you have cloned the repository, downloaded Ruby, and installed Jekyll. Navigate into the folder with the repo and run this command:
 
