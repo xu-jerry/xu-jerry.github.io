@@ -3,7 +3,7 @@ body {
     width: 70%;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-image: linear-gradient(to bottom right ,rgb(208, 229, 238), rgb(233, 240, 252), rgb(174, 218, 236));
+    /*background-image: linear-gradient(to bottom right ,rgb(208, 229, 238), rgb(233, 240, 252), rgb(174, 218, 236));*/
 }
 nav ul, footer ul {
     font-family: 'Inter', sans-serif;
@@ -46,7 +46,7 @@ code {
     font-size: 1.2em;
     font-family: 'Courier', serif;
     line-height: 1.2em;
-    color: rgb(51, 48, 0);
+    color: gray;
 }
 
 ul {
@@ -77,3 +77,16 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.column {
+    float: left;
+    width: 45%;
+    padding-right: 5%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
