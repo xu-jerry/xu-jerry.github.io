@@ -3,14 +3,17 @@ body {
     width: 70%;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    /*background-image: linear-gradient(to bottom right ,rgb(208, 229, 238), rgb(233, 240, 252), rgb(174, 218, 236));*/
+    background-color: #EDEDED;
+    font-family: 'Overpass', sans-serif;
 }
+
 nav ul, footer ul {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Overpass', sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
+
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
@@ -18,7 +21,7 @@ nav ul li, footer ul li {
 
 a {
     text-decoration: none;
-    color: rgb(95, 138, 230);
+    color: #519DD9;
 }
 
 a:hover {
@@ -27,19 +30,15 @@ a:hover {
 
 h1 {
     font-size: 3em;
-    font-family: 'Inter', sans-serif;
 }
 
 h2 {
     font-size: 2em;
-    font-family: 'Inter', sans-serif;
 }
 
 p {
     font-size: 1.5em;
-    font-family: 'Overpass', sans-serif;
     line-height: 1.4em;
-    color: rgb(51, 48, 0);
 }
 
 code {
@@ -51,17 +50,17 @@ code {
 
 ul {
     font-size: 1.5em;
-    font-family: 'Overpass', sans-serif;
     line-height: 1.4em;
-    color: rgb(51, 48, 0);
 }
 
 indent {
     font-size: 0.8em;
-    font-family: 'Overpass', sans-serif;
     line-height: 1.4em;
-    color: rgb(51, 48, 0);
     margin-left: 40px
+}
+
+nav {
+    border-bottom: 1px solid #d5d5d5;
 }
 
 footer {
@@ -82,11 +81,11 @@ ul.posts li {
     float: left;
     width: 45%;
     padding-right: 5%;
-  }
+}
   
-  /* Clear floats after the columns */
-  .row:after {
+/* Clear floats after the columns */
+.row:after {
     content: "";
     display: table;
     clear: both;
-  }
+}
