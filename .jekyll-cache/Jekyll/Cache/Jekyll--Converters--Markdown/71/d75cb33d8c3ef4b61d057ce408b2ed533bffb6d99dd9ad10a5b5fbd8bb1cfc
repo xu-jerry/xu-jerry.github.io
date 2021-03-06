@@ -1,0 +1,52 @@
+I"�<p>This is a work in progress, for a cool and handy guide that anyone can use when stuck on a CTF challenge.</p>
+
+<p>When first tackling a CTF challenge, there are a couple of things to identify first. Find the category, and a general idea of where the flag might be hiding. Sometimes, the flavortext contains lots of useful information, so don’t skimp on reading that!</p>
+
+<p>Table of contents:</p>
+<ol>
+  <li><a href="/blog/2021/03/05/CTF-Master-Guide.html#forensics">Forensics</a>
+    <ol>
+      <li><a href="/blog/2021/03/05/CTF-Master-Guide.html/#steganography">Steganography</a>
+        <ol>
+          <li><a href="/blog/2021/03/05/CTF-Master-Guide.html/#file-steganography">File Steganography</a></li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+</ol>
+
+<p><a id="forensics"></a></p>
+<h1 id="forensics">Forensics</h1>
+
+<p><a id="steganography"></a></p>
+<h2 id="steganography">Steganography</h2>
+
+<p><a id="file-steganography"> </a></p>
+<h3 id="file-steganography">File Steganography</h3>
+<ul>
+  <li><code>file</code> to check file type</li>
+  <li>Try checking the magic bytes if that doesn’t work</li>
+  <li><code>binwalk</code></li>
+  <li><code>strings</code></li>
+  <li><code>hexdump</code></li>
+  <li>exif data</li>
+  <li>If it is an image:
+    <ul>
+      <li>LSB or MSB</li>
+      <li>Color filters (Gimp, Photoshop)</li>
+    </ul>
+  </li>
+  <li>If it is a Microsoft file like Word or Excel
+    <ul>
+      <li>rename file extension to <code>.zip</code></li>
+      <li>unzip files, and analyse from there</li>
+    </ul>
+  </li>
+</ul>
+
+<p><a id="wireshark"> </a></p>
+<h3 id="wireshark">Wireshark</h3>
+
+<p><a id="memory-forensics"> </a></p>
+<h3 id="memory-forensics">Memory Forensics</h3>
+:ET

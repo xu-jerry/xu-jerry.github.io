@@ -12,6 +12,8 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    line-height: 1.4em;
+    font-size: 1.5em;
 }
 
 nav ul li, footer ul li {
@@ -46,12 +48,14 @@ code {
     font-family: 'Courier', serif;
     line-height: 1.2em;
     color: gray;
+    background-color:rgb(210, 210, 210);
 }
-
+/*
 ul {
     font-size: 1.5em;
     line-height: 1.4em;
 }
+*/
 
 indent {
     font-size: 0.8em;
