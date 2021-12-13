@@ -32,6 +32,7 @@ Table of contents:
 - If it is an image:
     - LSB or MSB
     - Color filters (Gimp, Photoshop) 
+    - <code>pngcheck</code>
 - If it is a Microsoft file like Word or Excel
     - rename file extension to <code>.zip</code>
     - unzip files, and analyze from there
